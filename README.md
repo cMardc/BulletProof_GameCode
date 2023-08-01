@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Language-C++-blue)
 
 
-<h4>A game made with C++ and raylib</h4>
+<h4>A game made with raylib</h4>
 <h4>
 BulletProof is a game where you're a bullet and have to avoid walls,       
 But you only can move up and down. Also, walls have a little hole in them.     

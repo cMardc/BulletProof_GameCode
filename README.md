@@ -6,6 +6,11 @@
 ![Static Badge](https://img.shields.io/badge/Language-C++-blue)
 
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XaEc3b1FaTw/0.jpg)](https://www.youtube.com/watch?v=XaEc3b1FaTw)
+
+
+
 <h4>A game made with raylib</h4>
 <h4>
 BulletProof is a game where you're a bullet and have to avoid walls,       

@@ -1,6 +1,11 @@
 
 <img src="PlayerTransparent.png" align="center" alt="Alt text" title="Logo" width=500 height=500>
 <h1>BulletProof</h1>
+
+
+![Static Badge](https://img.shields.io/badge/Language-C++-blue)
+
+
 <h4>A game made with C++ and raylib</h4>
 <h4>
 BulletProof is a game where you're a bullet and have to avoid walls,       

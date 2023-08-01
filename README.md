@@ -7,7 +7,7 @@ BulletProof is a game where you're a bullet and have to avoid walls,
 But you only can move up and down. Also, walls have a little hole in them.     
 You have to go from hole to get score.
 <hr>
-Main rules
+<h2>Main rules</h2>
 Press 'W' or 'KEY_UP' to move up.         \
 Press 'S' or 'KEY_DOWN' to move down.      
 Avoid brown areas to get score.                                              

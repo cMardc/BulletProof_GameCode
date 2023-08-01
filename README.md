@@ -1,5 +1,5 @@
 
-<img src="PlayerTransparent.png" align="center" alt="Alt text" title="Logo">
+<img src="PlayerTransparent.png" align="center" alt="Alt text" title="Logo" width=500 height=500>
 <h1>BulletProof</h1>
 </h1>
 <h3>

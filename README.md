@@ -1,13 +1,6 @@
-# BulletProof
 
-<h1><pre>
-  BBBBB   U     U   L      L        EEEEE   TTTTTT   PPPPP   RRRRR        OOOOOOO   OOOOOOO   FFFFF                                
-  B   B   U     U   L      L        E          T     P   P   R    R       O     O   O     O   F                               
-  BBBB    U     U   L      L        EEEE       T     PPPPP   RRRRRR       O     O   O     O   FFF                               
-  B   B   U     U   L      L        E          T     P       R     R      O     O   O     O   F                              
-  BBBBB    UUUUU    LLLLL  LLLLL    EEEEE      T     P       R      R     OOOOOOO   OOOOOOO   F                                
-                                                                                                                           
-  </pre>
+<img src="playerTransparent.png" align="center" alt="Alt text" title="Logo">
+<h1>BulletProof</h1>
 </h1>
 <h3>
 BulletProof Is A Game That Where You're A Bullet And Have To Avoid Walls.      

@@ -1,6 +1,7 @@
 
 <img src="PlayerTransparent.png" align="center" alt="Alt text" title="Logo" width=500 height=500>
 <h1>BulletProof</h1>
+<h4>A game made with C++ and raylib</h4>
 <h4>
 BulletProof Is A Game That Where You're A Bullet And Have To Avoid Walls.      
 <br>   
@@ -18,9 +19,6 @@ Press 'KEY_S Or 'KEY_DOWN' (Raylib Button Values : 83 Or 264) To Move Down.
 Avoid Brown Areas To Get Score.                                              
 <br>
 </h4>
-<h5><br>
-Developer : ~cMard
-<br>                                               
-</h5>
-<br>
+<hr>
+
 

@@ -3,20 +3,14 @@
 <h1>BulletProof</h1>
 <h4>A game made with C++ and raylib</h4>
 <h4>
-BulletProof Is A Game That Where You're A Bullet And Have To Avoid Walls.      
-<br>   
-But You Only Can Move Up And Down. Also, Walls Have A Little Hole In Them.     
-<br>  
-You Have To Go Form Hole To Get Score.
-<br>
-<br>
-Main Rules :                                                                      
-<br>
-Press 'KEY_W' Or 'KEY_UP' (Raylib Button Values : 87 Or 265) To Move Up.          
-<br>
-Press 'KEY_S Or 'KEY_DOWN' (Raylib Button Values : 83 Or 264) To Move Down.       
-<br>
-Avoid Brown Areas To Get Score.                                              
+BulletProof is a game where you're a bullet and have to avoid walls,       
+But you only can move up and down. Also, walls have a little hole in them.     
+You have to go from hole to get score.
+<hr>
+Main rules
+Press 'W' or 'KEY_UP' to move up.         \
+Press 'S' or 'KEY_DOWN' to move down.      
+Avoid brown areas to get score.                                              
 <br>
 </h4>
 <hr>

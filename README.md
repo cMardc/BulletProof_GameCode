@@ -9,7 +9,7 @@
                                                                                                                            
   </pre>
 </h1>
-<h2>
+<h3>
 BulletProof Is A Game That Where You're A Bullet And Have To Avoid Walls.      
 <br>   
 But You Only Can Move Up And Down. Also, Walls Have A Little Hole In Them.     
@@ -25,10 +25,10 @@ Press 'KEY_S Or 'KEY_DOWN' (Raylib Button Values : 83 Or 264) To Move Down.
 <br>
 Avoid Brown Areas To Get Score.                                              
 <br>
-</h2>
-<h3><br>
+</h3>
+<h4><br>
 Developer : ~cMard
 <br>                                               
-</h3>
+</h4>
 <br>
 

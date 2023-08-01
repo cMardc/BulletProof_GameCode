@@ -24,5 +24,7 @@ You have to go from hole to get score.
 <ul>Avoid brown areas to get score.<br></ul>    
 </h4>
 <hr>
-
+<h4>Made by ~cM</h4>
+<h5>Other links : </h5>
+<a href="https://discord.gg/5W4XtHkc6g">Discord</a>
 

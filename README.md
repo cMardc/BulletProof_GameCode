@@ -8,8 +8,8 @@ But you only can move up and down. Also, walls have a little hole in them.
 You have to go from hole to get score.
 <hr>
 <h2>Main rules</h2>
-Press 'W' or 'KEY_UP' to move up.         \
-Press 'S' or 'KEY_DOWN' to move down.      
+Press 'W' or 'KEY_UP' to move up.<br>
+Press 'S' or 'KEY_DOWN' to move down.      <br>
 Avoid brown areas to get score.                                              
 <br>
 </h4>

@@ -14,7 +14,7 @@
 <h4>A game made with raylib</h4>
 <h4>
 BulletProof is a game where you're a bullet and have to avoid walls,       
-But you only can move up and down. Also, walls have a little hole in them.     
+But you can only move up and down. Also, walls have a little hole in them.     
 You have to go from hole to get score.
 <hr>
 <h2>Main rules</h2>
